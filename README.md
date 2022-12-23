@@ -7,4 +7,4 @@ usage:
 
 
 2) node float.js calc
-  # Work only with positive numbers. Allowed operators: "-", "+".
+  // Work only with positive numbers. Allowed operators: "-", "+".
