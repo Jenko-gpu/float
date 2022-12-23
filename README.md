@@ -1,4 +1,5 @@
 # float
+# Талхин Марсель
 
 usage:
 1) node float.js conv
