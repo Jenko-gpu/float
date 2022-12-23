@@ -8,3 +8,6 @@ usage:
 
 2) node float.js calc
   // Work only with positive numbers. Allowed operators: "-", "+".
+
+
+output: 32 bits ("0" or "1").
